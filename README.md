@@ -1,3 +1,6 @@
+## Customer Management System
+본 프로젝트는 [ Youtube 동빈나 - React와 Node.js를 활용한 고객 관리 시스템 개발 강의 ]를 수강하며 실습 목적으로 만들어진 고객 관리 시스템(Customer Management System)입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
